@@ -1,3 +1,8 @@
+## Deprecation Notice 2026-04-13
+
+### This image is no longer maintained as it is effectively superceded by https://github.com/pypiserver/pypiserver . We reccomend use of the official image instead.
+
+
 PyPI Server
 ===========
 
